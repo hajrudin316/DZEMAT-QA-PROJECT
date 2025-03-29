@@ -1,0 +1,22 @@
+{
+  "name": "dzemat-qa-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hajrudin316/DZEMAT-QA-PROJECT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hajrudin316/DZEMAT-QA-PROJECT/issues"
+  },
+  "homepage": "https://github.com/hajrudin316/DZEMAT-QA-PROJECT#readme",
+  "dependencies": {
+    "cypress": "^14.2.1"
+  }
+}
